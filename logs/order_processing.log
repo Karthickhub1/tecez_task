@@ -1,0 +1,26 @@
+2026-06-02 17:50:23,317 - INFO - Processed order SO-2024-001
+2026-06-02 17:50:23,322 - INFO - Processed order SO-2024-002
+2026-06-02 17:50:23,323 - ERROR - Total mismatch Order=SO-2024-003 Expected=9500.0 Given=9000.0
+2026-06-02 17:50:23,323 - ERROR - Failed Order=SO-2024-003 Error=Order total mismatch
+2026-06-02 17:50:23,327 - INFO - Processed order SO-2024-004
+2026-06-02 17:50:23,332 - INFO - Processed order SO-2024-005
+2026-06-02 17:50:23,332 - ERROR - Total mismatch Order=SO-2024-006 Expected=3400.0 Given=2000.0
+2026-06-02 17:50:23,332 - ERROR - Failed Order=SO-2024-006 Error=Order total mismatch
+2026-06-02 17:52:15,391 - INFO - Processed order SO-2024-001
+2026-06-02 17:52:15,396 - INFO - Processed order SO-2024-002
+2026-06-02 17:52:15,397 - ERROR - Total mismatch Order=SO-2024-003 Expected=9500.0 Given=9000.0
+2026-06-02 17:52:15,397 - ERROR - Failed Order=SO-2024-003 Error=Order total mismatch
+2026-06-02 17:52:15,401 - INFO - Processed order SO-2024-004
+2026-06-02 17:52:15,407 - INFO - Processed order SO-2024-005
+2026-06-02 17:52:15,407 - ERROR - Total mismatch Order=SO-2024-006 Expected=3400.0 Given=2000.0
+2026-06-02 17:52:15,407 - ERROR - Failed Order=SO-2024-006 Error=Order total mismatch
+2026-06-02 17:54:05,605 - INFO - Order processed successfully: SO-2024-001
+2026-06-02 17:54:05,609 - INFO - Order processed successfully: SO-2024-002
+2026-06-02 17:54:05,609 - ERROR - Total mismatch Order=SO-2024-003 Expected=9500.0 Given=9000.0
+2026-06-02 17:54:05,609 - ERROR - Order processing failed: SO-2024-003 - Order total mismatch
+2026-06-02 17:54:05,615 - INFO - Order processed successfully: SO-2024-004
+2026-06-02 17:54:05,619 - INFO - Order processed successfully: SO-2024-005
+2026-06-02 17:54:05,620 - ERROR - Total mismatch Order=SO-2024-006 Expected=3400.0 Given=2000.0
+2026-06-02 17:54:05,620 - ERROR - Order processing failed: SO-2024-006 - Order total mismatch
+2026-06-02 18:29:14,262 - INFO - Order created successfully: TECEZEORD03
+2026-06-02 18:35:55,368 - INFO - Order created successfully: TECEZEORD04
